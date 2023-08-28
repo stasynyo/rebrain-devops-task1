@@ -14,8 +14,8 @@ make peace
 - [x] :dart: Create project
 - [ ] Work on it 
 ## **Reviews**
-@Serega :+1: It's realy good idea, we realy need it
-@rebrain OMG! It's perfect
++ @Serega :+1: It's realy good idea, we realy need it
++ @rebrain OMG! It's perfect
 ## **See Also**
 - [Wikipedia](https://ru.wikipedia.org/wiki/%D0%9B%D1%8E%D0%B1%D0%BE%D0%B2%D1%8C)
 - [Podari zhizn](https://podari-zhizn.ru/ru)

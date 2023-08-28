@@ -12,7 +12,7 @@ make peace
 ![Peace](https://clipground.com/images/peace-sign-emoji-clipart-1.jpg)
 ## **Our goals**
 - [x] :dart: Create project
-- [] Work on it 
+- [ ] Work on it 
 ## **Reviews**
 @Serega :+1: It's realy good idea, we realy need it
 @rebrain OMG! It's perfect
